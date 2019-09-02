@@ -67,7 +67,6 @@ export default class App extends React.Component {
     return data;
   };
 
-
   render() {
     const {userList, selectedUsers} = this.state;
     return (
